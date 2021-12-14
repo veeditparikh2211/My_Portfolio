@@ -41,6 +41,10 @@ https://veeditparikh2211.github.io/My_Portfolio/
 
 12. Making the website responsive to be opened up in any layout.
 
+## Screenshot of the Application
+
+images\Home Page.PNG
+
 ## Contribution
 
 Made By Veedit Parikh
