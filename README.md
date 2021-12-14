@@ -43,7 +43,7 @@ https://veeditparikh2211.github.io/My_Portfolio/
 
 ## Screenshot of the Application
 
-images\Home Page.PNG
+<img width="737" alt="Home Page" src="https://user-images.githubusercontent.com/5492869/145920187-80be696e-1850-4ede-b550-07091e70c11a.PNG">
 
 ## Contribution
 
